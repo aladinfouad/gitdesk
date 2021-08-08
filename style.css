@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 100%;
+    background: rgb(162, 228, 222);
+    padding: 50px 20px;
+}
+
+h2{
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(170, 0, 105);
+    color:aliceblue;
+    padding: 20px;
+}
+
+p{
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(35, 112, 148);
+    color: white;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
